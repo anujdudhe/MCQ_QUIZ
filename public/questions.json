@@ -1662,312 +1662,312 @@
   },
   {
     "id": 152,
-      "question": "Which combustion chamber shape improves swirl in diesel engines?",
-      "options": [
-        "Flat chamber",
-        "Open chamber",
-        "Hemispherical chamber",
-        "Toroidal chamber"
-      ],
-      "answerIndex": 3
-    },
-    {
-      "id": 153,
-      "question": "Which parameter increases the risk of detonation?",
-      "options": [
-        "High octane fuel",
-        "Retarded ignition timing",
-        "Low inlet temperature",
-        "High compression ratio"
-      ],
-      "answerIndex": 3
-    },
-    {
-      "id": 154,
-      "question": "Which emission is mainly reduced using diesel particulate filters (DPF)?",
-      "options": [
-        "CO₂",
-        "Particulate matter (soot)",
-        "NOx",
-        "CO"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 155,
-      "question": "Which pump supplies high-pressure fuel to the injectors in diesel engines?",
-      "options": [
-        "Feed pump",
-        "Lift pump",
-        "Common rail pump",
-        "Oil pump"
-      ],
-      "answerIndex": 2
-    },
-    {
-      "id": 156,
-      "question": "Higher compression ratio in SI engines may lead to:",
-      "options": [
-        "Reduced knocking tendency",
-        "More complete combustion",
-        "Improved power without issues",
-        "Knocking or detonation"
-      ],
-      "answerIndex": 3
-    },
-    {
-      "id": 157,
-      "question": "Which stroke has both valves closed?",
-      "options": [
-        "Intake stroke",
-        "Compression stroke",
-        "Exhaust stroke",
-        "Scavenging stroke"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 158,
-      "question": "Which of the following is a type of supercharger?",
-      "options": [
-        "Turbocharger only",
-        "Roots blower",
-        "Piston pump",
-        "Fuel injector"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 159,
-      "question": "Which gas primarily contributes to smog formation?",
-      "options": [
-        "NOx",
-        "CO₂",
-        "H₂O vapor",
-        "SO₂"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": 160,
-      "question": "Which factor affects flame speed in SI engines?",
-      "options": [
-        "Mixture strength",
-        "Crankshaft weight",
-        "Oil viscosity",
-        "Cooling water level"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": 161,
-      "question": "In diesel engines, ignition delay is the interval between:",
-      "options": [
-        "Start of injection and start of combustion",
-        "Start of combustion and power stroke",
-        "End of exhaust and start of intake",
-        "Fuel supply and fuel injection"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": 162,
-      "question": "Which cycle consists of constant-pressure and constant-volume heat addition?",
-      "options": [
-        "Otto cycle",
-        "Diesel cycle",
-        "Dual cycle",
-        "Rankine cycle"
-      ],
-      "answerIndex": 2
-    },
-    {
-      "id": 163,
-      "question": "Which factor reduces ignition delay in diesel engines?",
-      "options": [
-        "Low cetane number",
-        "High intake temperature",
-        "Low compression ratio",
-        "Water injection"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 164,
-      "question": "Which phenomenon occurs due to auto-ignition of unburnt mixture in SI engines?",
-      "options": [
-        "Detonation",
-        "Pre-ignition",
-        "Scavenging",
-        "Turbo lag"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": 165,
-      "question": "Which component connects the piston to the crankshaft?",
-      "options": [
-        "Piston pin",
-        "Camshaft",
-        "Connecting rod",
-        "Valve seat"
-      ],
-      "answerIndex": 2
-    },
-    {
-      "id": 166,
-      "question": "Which cooling system does not require a radiator fan?",
-      "options": [
-        "Air cooling",
-        "Water cooling",
-        "Forced liquid cooling",
-        "Oil cooling"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": 167,
-      "question": "The ignition system in petrol engines generates:",
-      "options": [
-        "Fuel pressure",
-        "Lubricating oil pressure",
-        "High-voltage spark",
-        "Cooling effect"
-      ],
-      "answerIndex": 2
-    },
-    {
-      "id": 168,
-      "question": "Which stroke produces work output in IC engines?",
-      "options": [
-        "Compression stroke",
-        "Exhaust stroke",
-        "Intake stroke",
-        "Power stroke"
-      ],
-      "answerIndex": 3
-    },
-    {
-      "id": 169,
-      "question": "Which factor increases volumetric efficiency?",
-      "options": [
-        "Higher intake air temperature",
-        "Lower intake air temperature",
-        "Higher coolant temperature",
-        "Retarded ignition"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 170,
-      "question": "A higher air–fuel ratio (lean mixture) results in:",
-      "options": [
-        "More fuel consumption",
-        "Lower flame speed",
-        "Improved knocking behavior",
-        "Richer combustion"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 171,
-      "question": "What is the purpose of the piston rings?",
-      "options": [
-        "Improve ignition timing",
-        "Seal combustion chamber and control oil",
-        "Cool the engine block",
-        "Strengthen piston crown"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 172,
-      "question": "Which emissions are reduced by catalytic converters?",
-      "options": [
-        "CO, HC, NOx",
-        "CO₂ only",
-        "SO₂ only",
-        "Particulates only"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": 173,
-      "question": "Which of the following causes white smoke in diesel engines?",
-      "options": [
-        "Unburnt diesel due to low temperature",
-        "Burning lubricating oil",
-        "High intake air temperature",
-        "Knocking"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": 174,
-      "question": "Mean effective pressure (MEP) is defined as:",
-      "options": [
-        "Average pressure acting on piston",
-        "Fuel injection pressure",
-        "Exhaust gas pressure",
-        "Intake manifold pressure"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": 175,
-      "question": "Which condition increases brake specific fuel consumption (BSFC)?",
-      "options": [
-        "Higher thermal efficiency",
-        "Lower friction power",
-        "Poor combustion",
-        "Turbocharging"
-      ],
-      "answerIndex": 2
-    },
-    {
-      "id": 176,
-      "question": "Which engine cycle is used to represent gas turbines?",
-      "options": [
-        "Otto cycle",
-        "Brayton cycle",
-        "Diesel cycle",
-        "Rankine cycle"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 177,
-      "question": "What is scavenging in IC engines?",
-      "options": [
-        "Auto ignition of mixture",
-        "Removal of exhaust gases and filling with fresh charge",
-        "Fuel atomization",
-        "Cooling of engine parts"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 178,
-      "question": "Higher exhaust temperature indicates:",
-      "options": [
-        "Poor combustion",
-        "Rich mixture only",
-        "Higher thermal efficiency",
-        "Lower engine speed"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": 179,
-      "question": "Which component regulates engine temperature?",
-      "options": [
-        "Radiator",
-        "Thermostat",
-        "Air filter",
-        "Fuel pump"
-      ],
-      "answerIndex": 1
-    },
+    "question": "Which combustion chamber shape improves swirl in diesel engines?",
+    "options": [
+      "Flat chamber",
+      "Open chamber",
+      "Hemispherical chamber",
+      "Toroidal chamber"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 153,
+    "question": "Which parameter increases the risk of detonation?",
+    "options": [
+      "High octane fuel",
+      "Retarded ignition timing",
+      "Low inlet temperature",
+      "High compression ratio"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 154,
+    "question": "Which emission is mainly reduced using diesel particulate filters (DPF)?",
+    "options": [
+      "CO₂",
+      "Particulate matter (soot)",
+      "NOx",
+      "CO"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 155,
+    "question": "Which pump supplies high-pressure fuel to the injectors in diesel engines?",
+    "options": [
+      "Feed pump",
+      "Lift pump",
+      "Common rail pump",
+      "Oil pump"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 156,
+    "question": "Higher compression ratio in SI engines may lead to:",
+    "options": [
+      "Reduced knocking tendency",
+      "More complete combustion",
+      "Improved power without issues",
+      "Knocking or detonation"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 157,
+    "question": "Which stroke has both valves closed?",
+    "options": [
+      "Intake stroke",
+      "Compression stroke",
+      "Exhaust stroke",
+      "Scavenging stroke"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 158,
+    "question": "Which of the following is a type of supercharger?",
+    "options": [
+      "Turbocharger only",
+      "Roots blower",
+      "Piston pump",
+      "Fuel injector"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 159,
+    "question": "Which gas primarily contributes to smog formation?",
+    "options": [
+      "NOx",
+      "CO₂",
+      "H₂O vapor",
+      "SO₂"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 160,
+    "question": "Which factor affects flame speed in SI engines?",
+    "options": [
+      "Mixture strength",
+      "Crankshaft weight",
+      "Oil viscosity",
+      "Cooling water level"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 161,
+    "question": "In diesel engines, ignition delay is the interval between:",
+    "options": [
+      "Start of injection and start of combustion",
+      "Start of combustion and power stroke",
+      "End of exhaust and start of intake",
+      "Fuel supply and fuel injection"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 162,
+    "question": "Which cycle consists of constant-pressure and constant-volume heat addition?",
+    "options": [
+      "Otto cycle",
+      "Diesel cycle",
+      "Dual cycle",
+      "Rankine cycle"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 163,
+    "question": "Which factor reduces ignition delay in diesel engines?",
+    "options": [
+      "Low cetane number",
+      "High intake temperature",
+      "Low compression ratio",
+      "Water injection"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 164,
+    "question": "Which phenomenon occurs due to auto-ignition of unburnt mixture in SI engines?",
+    "options": [
+      "Detonation",
+      "Pre-ignition",
+      "Scavenging",
+      "Turbo lag"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 165,
+    "question": "Which component connects the piston to the crankshaft?",
+    "options": [
+      "Piston pin",
+      "Camshaft",
+      "Connecting rod",
+      "Valve seat"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 166,
+    "question": "Which cooling system does not require a radiator fan?",
+    "options": [
+      "Air cooling",
+      "Water cooling",
+      "Forced liquid cooling",
+      "Oil cooling"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 167,
+    "question": "The ignition system in petrol engines generates:",
+    "options": [
+      "Fuel pressure",
+      "Lubricating oil pressure",
+      "High-voltage spark",
+      "Cooling effect"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 168,
+    "question": "Which stroke produces work output in IC engines?",
+    "options": [
+      "Compression stroke",
+      "Exhaust stroke",
+      "Intake stroke",
+      "Power stroke"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 169,
+    "question": "Which factor increases volumetric efficiency?",
+    "options": [
+      "Higher intake air temperature",
+      "Lower intake air temperature",
+      "Higher coolant temperature",
+      "Retarded ignition"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 170,
+    "question": "A higher air–fuel ratio (lean mixture) results in:",
+    "options": [
+      "More fuel consumption",
+      "Lower flame speed",
+      "Improved knocking behavior",
+      "Richer combustion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 171,
+    "question": "What is the purpose of the piston rings?",
+    "options": [
+      "Improve ignition timing",
+      "Seal combustion chamber and control oil",
+      "Cool the engine block",
+      "Strengthen piston crown"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 172,
+    "question": "Which emissions are reduced by catalytic converters?",
+    "options": [
+      "CO, HC, NOx",
+      "CO₂ only",
+      "SO₂ only",
+      "Particulates only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 173,
+    "question": "Which of the following causes white smoke in diesel engines?",
+    "options": [
+      "Unburnt diesel due to low temperature",
+      "Burning lubricating oil",
+      "High intake air temperature",
+      "Knocking"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 174,
+    "question": "Mean effective pressure (MEP) is defined as:",
+    "options": [
+      "Average pressure acting on piston",
+      "Fuel injection pressure",
+      "Exhaust gas pressure",
+      "Intake manifold pressure"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 175,
+    "question": "Which condition increases brake specific fuel consumption (BSFC)?",
+    "options": [
+      "Higher thermal efficiency",
+      "Lower friction power",
+      "Poor combustion",
+      "Turbocharging"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 176,
+    "question": "Which engine cycle is used to represent gas turbines?",
+    "options": [
+      "Otto cycle",
+      "Brayton cycle",
+      "Diesel cycle",
+      "Rankine cycle"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 177,
+    "question": "What is scavenging in IC engines?",
+    "options": [
+      "Auto ignition of mixture",
+      "Removal of exhaust gases and filling with fresh charge",
+      "Fuel atomization",
+      "Cooling of engine parts"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 178,
+    "question": "Higher exhaust temperature indicates:",
+    "options": [
+      "Poor combustion",
+      "Rich mixture only",
+      "Higher thermal efficiency",
+      "Lower engine speed"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 179,
+    "question": "Which component regulates engine temperature?",
+    "options": [
+      "Radiator",
+      "Thermostat",
+      "Air filter",
+      "Fuel pump"
+    ],
+    "answerIndex": 1
+  },
   {
     "id": 180,
     "question": "Which factor increases engine friction losses?",
@@ -1978,5 +1978,1655 @@
       "Low oil temperature"
     ],
     "answerIndex": 1
+  },
+  {
+    "id": 181,
+    "question": "Which property of fuel is important for preventing diesel knock?",
+    "options": [
+      "Octane number",
+      "Cetane number",
+      "Viscosity",
+      "Flash point"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 182,
+    "question": "Which factor reduces volumetric efficiency in SI engines?",
+    "options": [
+      "Cold intake air",
+      "Supercharging",
+      "Hot intake air",
+      "Large valves"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 183,
+    "question": "Which of the following decreases engine friction?",
+    "options": [
+      "High viscosity oil",
+      "Proper lubrication",
+      "Dust in oil",
+      "Higher engine speed"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 184,
+    "question": "Which is a reason for higher power output in two-stroke engines?",
+    "options": [
+      "Power stroke every revolution",
+      "Lower compression ratio",
+      "Heavy valve mechanism",
+      "Lower scavenging"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 185,
+    "question": "Which action controls emissions in modern IC engines?",
+    "options": [
+      "Fuel boiling",
+      "Engine Control Unit (ECU) adjustments",
+      "Manual spark timing",
+      "Increasing bore diameter"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 186,
+    "question": "What causes pre-ignition in SI engines?",
+    "options": [
+      "Automatic spark timing",
+      "Hot spots igniting mixture before spark",
+      "High octane number",
+      "Low coolant temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 187,
+    "question": "Which type of supercharger is driven mechanically?",
+    "options": [
+      "Turbocharger",
+      "Roots blower",
+      "Centrifugal turbo",
+      "Exhaust-driven pump"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 188,
+    "question": "Which factor increases NOx emissions?",
+    "options": [
+      "Low combustion temperature",
+      "High combustion temperature",
+      "Rich mixture",
+      "Late injection"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 189,
+    "question": "Which component controls fuel injection quantity in CRDI systems?",
+    "options": [
+      "Injector nozzle only",
+      "Fuel tank",
+      "Engine Control Unit (ECU)",
+      "Air filter"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 190,
+    "question": "Diesel knock occurs due to:",
+    "options": [
+      "Low compression ratio",
+      "Long ignition delay",
+      "High cetane number",
+      "Rich mixture"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 191,
+    "question": "Which type of mixture causes misfire in SI engines?",
+    "options": [
+      "Stoichiometric mixture",
+      "Rich mixture",
+      "Very lean mixture",
+      "Slightly rich mixture"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 192,
+    "question": "Lubrication system failure may lead to:",
+    "options": [
+      "Improved fuel efficiency",
+      "Overheating and wear",
+      "Lower exhaust temperature",
+      "Reduced emissions"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 193,
+    "question": "What is the function of the oil pump?",
+    "options": [
+      "Mix oil with fuel",
+      "Circulate oil under pressure",
+      "Ignite mixture",
+      "Cool air–fuel mixture"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 194,
+    "question": "Which component removes soot from diesel exhaust?",
+    "options": [
+      "Catalytic converter",
+      "Diesel particulate filter (DPF)",
+      "Turbocharger",
+      "Air filter"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 195,
+    "question": "What is the purpose of swirl in diesel engines?",
+    "options": [
+      "Increase compression ratio",
+      "Improve air–fuel mixing",
+      "Cool the piston",
+      "Increase exhaust back pressure"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 196,
+    "question": "Which factor increases ignition delay in diesel engines?",
+    "options": [
+      "High cetane number",
+      "High cylinder temperature",
+      "Low compression ratio",
+      "Small fuel droplets"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 197,
+    "question": "Which parameter determines the speed of flame propagation in SI engines?",
+    "options": [
+      "Oil temperature",
+      "Fuel octane number",
+      "Turbulence intensity",
+      "Piston speed"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 198,
+    "question": "Which pollutant forms due to incomplete combustion?",
+    "options": [
+      "CO",
+      "CO₂",
+      "N₂",
+      "H₂O vapor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 199,
+    "question": "Which stroke generates negative work?",
+    "options": [
+      "Power stroke",
+      "Intake stroke",
+      "Compression stroke",
+      "None"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 200,
+    "question": "Higher engine load generally results in:",
+    "options": [
+      "Lower fuel flow rate",
+      "Higher fuel consumption",
+      "Lower exhaust temperature",
+      "Lower cylinder pressure"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 201,
+    "question": "Which factor increases volumetric efficiency?",
+    "options": [
+      "Dirty air filter",
+      "High intake temperature",
+      "Cold, dense air",
+      "Excessive throttling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 202,
+    "question": "What does the cetane number measure?",
+    "options": [
+      "Knocking resistance of diesel",
+      "Combustion temperature",
+      "Fuel viscosity",
+      "Octane rating"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 203,
+    "question": "Which factor decreases BSFC?",
+    "options": [
+      "Poor combustion",
+      "Higher thermal efficiency",
+      "Late injection",
+      "High exhaust temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 204,
+    "question": "Which device uses exhaust gas energy to compress intake air?",
+    "options": [
+      "Roots blower",
+      "Turbocharger",
+      "Fuel pump",
+      "Carburetor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 205,
+    "question": "What is the main reason for using multi-valve engines?",
+    "options": [
+      "Increase fuel viscosity",
+      "Improve breathing and increase volumetric efficiency",
+      "Reduce oil temperature",
+      "Increase engine weight"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 206,
+    "question": "Which emission control method reduces NOx?",
+    "options": [
+      "DPF",
+      "EGR",
+      "Catalytic cracking",
+      "Oil filtration"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 207,
+    "question": "Which process is used to measure air–fuel ratio using exhaust gases?",
+    "options": [
+      "Orsat analysis",
+      "pH testing",
+      "Vibration analysis",
+      "Torque testing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 208,
+    "question": "The main source of particulate matter in diesel engines is:",
+    "options": [
+      "Unburnt oil vapors",
+      "Soot from incomplete combustion",
+      "Water vapor",
+      "Nitrogen gas"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 209,
+    "question": "What does a rich mixture cause in SI engines?",
+    "options": [
+      "High flame speed",
+      "Low CO emissions",
+      "High CO emissions",
+      "Lower power output"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 210,
+    "question": "Which component is responsible for maintaining engine idle speed?",
+    "options": [
+      "Throttle body / Idle control valve",
+      "Fuel injector",
+      "Air filter",
+      "Turbocharger"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 211,
+    "question": "Which factor increases detonation in SI engines?",
+    "options": [
+      "High octane fuel",
+      "Low compression ratio",
+      "High inlet air temperature",
+      "Retarded ignition timing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 212,
+    "question": "Which factor reduces diesel knocking?",
+    "options": [
+      "Low cetane number",
+      "High ignition delay",
+      "High cetane number",
+      "Low compression ratio"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 213,
+    "question": "What does exhaust gas recirculation (EGR) primarily reduce?",
+    "options": [
+      "CO",
+      "NOx",
+      "CO₂",
+      "HC"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 214,
+    "question": "Which factor increases ignition delay in diesel engines?",
+    "options": [
+      "High cetane number",
+      "High compression pressure",
+      "Low temperature and pressure",
+      "Fine fuel atomization"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 215,
+    "question": "The main purpose of a carburetor is to:",
+    "options": [
+      "Inject fuel",
+      "Mix air and fuel in correct proportion",
+      "Increase pressure",
+      "Cool the air"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 216,
+    "question": "Which stroke prepares the mixture for ignition in SI engines?",
+    "options": [
+      "Intake stroke",
+      "Compression stroke",
+      "Power stroke",
+      "Exhaust stroke"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 217,
+    "question": "Which factor leads to incomplete combustion?",
+    "options": [
+      "Correct air–fuel ratio",
+      "Insufficient oxygen",
+      "Proper ignition timing",
+      "Adequate turbulence"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 218,
+    "question": "Blue smoke in engines indicates:",
+    "options": [
+      "Fuel-rich mixture",
+      "Oil burning",
+      "Unburnt diesel",
+      "Water in fuel"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 219,
+    "question": "Which part converts reciprocating motion to rotary motion?",
+    "options": [
+      "Piston rings",
+      "Crankshaft",
+      "Camshaft",
+      "Connecting rod"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 220,
+    "question": "What is the function of the intake manifold?",
+    "options": [
+      "Collect exhaust gases",
+      "Distribute air/fuel mixture to cylinders",
+      "Store lubricating oil",
+      "Control ignition timing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 221,
+    "question": "Which valve opens during the exhaust stroke?",
+    "options": [
+      "Intake valve",
+      "Relief valve",
+      "Exhaust valve",
+      "Fuel valve"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 222,
+    "question": "Which factor increases friction power?",
+    "options": [
+      "Proper lubrication",
+      "Lower viscosity oil",
+      "Higher engine speed",
+      "Clean oil filter"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 223,
+    "question": "Where is the camshaft usually located in an overhead camshaft (OHC) engine?",
+    "options": [
+      "Inside crankcase",
+      "On top of the cylinder head",
+      "Below pistons",
+      "Inside intake manifold"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 224,
+    "question": "Which factor helps prevent knocking in SI engines?",
+    "options": [
+      "Low octane fuel",
+      "Advanced ignition timing",
+      "High octane fuel",
+      "High inlet temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 225,
+    "question": "Which stroke in a diesel engine compresses only air?",
+    "options": [
+      "Intake stroke",
+      "Compression stroke",
+      "Power stroke",
+      "Exhaust stroke"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 226,
+    "question": "The ignition system of petrol engines is designed to produce:",
+    "options": [
+      "High-pressure fuel",
+      "High-voltage spark",
+      "Exhaust back pressure",
+      "Lubricating oil pressure"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 227,
+    "question": "Which device supplies fuel at high pressure in CRDI diesel engines?",
+    "options": [
+      "Feed pump",
+      "Lift pump",
+      "High-pressure pump",
+      "Spark plug"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 228,
+    "question": "What does a higher compression ratio improve?",
+    "options": [
+      "Cooling rate",
+      "Thermal efficiency",
+      "Fuel color",
+      "Idle stability"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 229,
+    "question": "Which factor decreases volumetric efficiency?",
+    "options": [
+      "Cold, dense intake air",
+      "Clean air filter",
+      "Hot intake air",
+      "Supercharging"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 230,
+    "question": "Which of the following is a pollutant formed due to incomplete combustion?",
+    "options": [
+      "CO",
+      "CO₂",
+      "N₂",
+      "O₂"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 231,
+    "question": "What is the main function of a muffler?",
+    "options": [
+      "Filter exhaust gases",
+      "Reduce exhaust noise",
+      "Increase back pressure",
+      "Store exhaust gases"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 232,
+    "question": "Which cooling method is used in most modern cars?",
+    "options": [
+      "Air cooling",
+      "Water cooling",
+      "Oil cooling only",
+      "Evaporative cooling"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 233,
+    "question": "What is scavenging?",
+    "options": [
+      "Fuel injection process",
+      "Removing exhaust gas and filling fresh charge",
+      "Cooling engine parts",
+      "Ignition delay reduction"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 234,
+    "question": "Which emission increases with lean mixtures?",
+    "options": [
+      "CO",
+      "HC",
+      "NOx",
+      "Soot"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 235,
+    "question": "Which of the following reduces diesel smoke?",
+    "options": [
+      "Improper timing",
+      "Low compression",
+      "Turbocharging",
+      "Dirty air filter"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 236,
+    "question": "What is the purpose of the connecting rod?",
+    "options": [
+      "Open valves",
+      "Mix air and fuel",
+      "Convert piston force to crankshaft torque",
+      "Reduce friction"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 237,
+    "question": "Which stroke ends with the piston at TDC?",
+    "options": [
+      "Intake stroke",
+      "Compression stroke",
+      "Power stroke",
+      "None"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 238,
+    "question": "Which pollution control device oxidizes CO and HC?",
+    "options": [
+      "EGR valve",
+      "Diesel particulate filter",
+      "Catalytic converter",
+      "Turbocharger"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 239,
+    "question": "Which component stores energy to smoothen engine speed fluctuations?",
+    "options": [
+      "Camshaft",
+      "Flywheel",
+      "Air filter",
+      "Fuel injector"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 240,
+    "question": "Which factor reduces thermal efficiency?",
+    "options": [
+      "High compression ratio",
+      "Lower heat loss",
+      "Incomplete combustion",
+      "Proper ignition timing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 241,
+    "question": "Which factor directly improves the air standard efficiency of an engine cycle?",
+    "options": [
+      "Lower compression ratio",
+      "Higher compression ratio",
+      "Higher intake temperature",
+      "Increased throttling"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 242,
+    "question": "Which factor decreases ignition delay in diesel engines?",
+    "options": [
+      "Low cetane number",
+      "Low temperature",
+      "High compression pressure",
+      "High viscosity fuel"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 243,
+    "question": "What is the purpose of a choke in a carburetor?",
+    "options": [
+      "Increase airflow",
+      "Restrict air to enrich mixture during cold start",
+      "Reduce fuel flow",
+      "Control idle speed"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 244,
+    "question": "Which parameter increases when the throttle valve opens wider?",
+    "options": [
+      "Intake restriction",
+      "Airflow into engine",
+      "Compression ratio",
+      "Scavenging losses"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 245,
+    "question": "Which stroke in SI engines involves spark ignition?",
+    "options": [
+      "Compression stroke",
+      "Intake stroke",
+      "Power stroke",
+      "Exhaust stroke"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 246,
+    "question": "Which emission is caused mainly by rich mixtures in SI engines?",
+    "options": [
+      "NOx",
+      "CO",
+      "CO₂",
+      "N₂"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 247,
+    "question": "Which factor increases turbocharger efficiency?",
+    "options": [
+      "Lower exhaust temperature",
+      "High exhaust gas energy",
+      "Closed throttle",
+      "Small air filter"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 248,
+    "question": "Which engine part controls the timing of valve opening and closing?",
+    "options": [
+      "Crankshaft",
+      "Flywheel",
+      "Camshaft",
+      "Carburetor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 249,
+    "question": "Detonation in SI engines is caused by:",
+    "options": [
+      "Normal flame propagation",
+      "Auto-ignition of end gas",
+      "Lean mixture",
+      "Low intake temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 250,
+    "question": "Which device cools exhaust gases before recirculation in EGR systems?",
+    "options": [
+      "Turbocharger",
+      "Intercooler",
+      "EGR cooler",
+      "Radiator"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 251,
+    "question": "Which property of diesel indicates ignition quality?",
+    "options": [
+      "Cetane number",
+      "Octane number",
+      "Viscosity",
+      "Density"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 252,
+    "question": "Which factor decreases flame speed?",
+    "options": [
+      "Stoichiometric mixture",
+      "Rich mixture",
+      "Lean mixture",
+      "Increased turbulence"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 253,
+    "question": "Which stroke removes burnt gases?",
+    "options": [
+      "Intake stroke",
+      "Power stroke",
+      "Compression stroke",
+      "Exhaust stroke"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 254,
+    "question": "Which engine component reduces speed fluctuations?",
+    "options": [
+      "Crankcase",
+      "Flywheel",
+      "Camshaft",
+      "Oil sump"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 255,
+    "question": "A higher compression ratio leads to:",
+    "options": [
+      "Lower efficiency",
+      "Higher thermal efficiency",
+      "Lower cylinder pressure",
+      "Lower temperature at TDC"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 256,
+    "question": "Which cooling system uses coolant circulated by a pump?",
+    "options": [
+      "Air cooling",
+      "Thermosiphon cooling",
+      "Forced water cooling",
+      "Evaporative cooling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 257,
+    "question": "Which factor contributes to incomplete combustion?",
+    "options": [
+      "Correct AFR",
+      "Sufficient oxygen",
+      "Low mixture temperature",
+      "Proper ignition timing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 258,
+    "question": "Which gas contributes to greenhouse effect?",
+    "options": [
+      "CO₂",
+      "N₂",
+      "O₂",
+      "Ar"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 259,
+    "question": "Which action reduces diesel particulate matter?",
+    "options": [
+      "Turbocharging",
+      "Running rich mixture",
+      "Poor atomization",
+      "Clogged air filter"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 260,
+    "question": "The primary reason for knocking in diesel engines is:",
+    "options": [
+      "Short ignition delay",
+      "Long ignition delay",
+      "High octane number",
+      "Lean mixture"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 261,
+    "question": "Which part stores lubricating oil?",
+    "options": [
+      "Oil filter",
+      "Oil sump",
+      "Piston",
+      "Manifold"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 262,
+    "question": "Which component filters impurities from lubricating oil?",
+    "options": [
+      "Fuel filter",
+      "Air filter",
+      "Oil filter",
+      "Catalytic converter"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 263,
+    "question": "The indicated power of an engine is measured from:",
+    "options": [
+      "Crankshaft torque",
+      "P–V diagram",
+      "Fuel consumption",
+      "Exhaust temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 264,
+    "question": "What is the main purpose of an intercooler in turbocharged engines?",
+    "options": [
+      "Increase exhaust temperature",
+      "Cool compressed air before entering engine",
+      "Increase AFR",
+      "Reduce coolant flow"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 265,
+    "question": "Which factor reduces volumetric efficiency?",
+    "options": [
+      "Wide-open throttle",
+      "Cold air intake",
+      "Higher intake temperature",
+      "Turbocharging"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 266,
+    "question": "Which cycle assumes constant-volume heat addition?",
+    "options": [
+      "Diesel cycle",
+      "Dual cycle",
+      "Otto cycle",
+      "Brayton cycle"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 267,
+    "question": "Which type of combustion chamber improves turbulence in SI engines?",
+    "options": [
+      "Open chamber",
+      "Hemispherical chamber",
+      "Wedge chamber",
+      "Toroidal chamber"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 268,
+    "question": "Which factor affects emission formation most strongly?",
+    "options": [
+      "Ambient humidity",
+      "Combustion temperature",
+      "Air filter size",
+      "Crankcase pressure"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 269,
+    "question": "Which type of mixture causes backfiring in SI engines?",
+    "options": [
+      "Very rich mixture",
+      "Very lean mixture",
+      "Stoichiometric mixture",
+      "Turbocharged mixture"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 270,
+    "question": "Mean effective pressure is used to compare:",
+    "options": [
+      "Engine noise levels",
+      "Engine lubrication quality",
+      "Performance of different engines regardless of size",
+      "Fuel color variations"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 271,
+    "question": "Which type of combustion occurs in diesel engines?",
+    "options": [
+      "Constant-volume heat addition",
+      "Constant-pressure heat addition",
+      "Premixed flame only",
+      "Homogeneous charge combustion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 272,
+    "question": "Which factor increases the tendency of knocking in SI engines?",
+    "options": [
+      "Low compression ratio",
+      "High octane fuel",
+      "High charge temperature",
+      "Retarded ignition timing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 273,
+    "question": "What is the purpose of a throttle valve in SI engines?",
+    "options": [
+      "Control fuel injection timing",
+      "Regulate air intake and engine speed",
+      "Increase compression ratio",
+      "Reduce exhaust noise"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 274,
+    "question": "Which factor decreases ignition delay?",
+    "options": [
+      "Low cylinder temperature",
+      "High cetane number",
+      "Low compression ratio",
+      "Poor atomization"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 275,
+    "question": "The power produced by an engine without accounting for friction losses is called:",
+    "options": [
+      "Brake power",
+      "Indicated power",
+      "Shaft power",
+      "Thermal power"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 276,
+    "question": "Which emission results from high combustion temperature in SI and CI engines?",
+    "options": [
+      "HC",
+      "CO",
+      "NOx",
+      "Soot"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 277,
+    "question": "What does a catalytic converter reduce?",
+    "options": [
+      "CO, HC, NOx",
+      "Soot only",
+      "CO₂ only",
+      "N₂ emissions"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 278,
+    "question": "Which energy conversion occurs during the power stroke?",
+    "options": [
+      "Chemical energy to mechanical energy",
+      "Mechanical to heat energy",
+      "Heat energy to chemical energy",
+      "Kinetic to potential energy"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 279,
+    "question": "Which factor affects volumetric efficiency the most?",
+    "options": [
+      "Oil temperature",
+      "Air density",
+      "Fuel density",
+      "Engine color"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 280,
+    "question": "Which device reduces engine noise?",
+    "options": [
+      "Turbocharger",
+      "Muffler",
+      "Carburetor",
+      "Radiator"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 281,
+    "question": "What causes black smoke in diesel engines?",
+    "options": [
+      "Insufficient fuel",
+      "Excess air",
+      "Rich mixture / incomplete combustion",
+      "Low compression ratio"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 282,
+    "question": "Which factor increases brake power?",
+    "options": [
+      "Lower volumetric efficiency",
+      "Lower calorific value fuel",
+      "Better combustion",
+      "High friction losses"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 283,
+    "question": "Which device measures engine torque?",
+    "options": [
+      "Hydrometer",
+      "Pyrometer",
+      "Dynamometer",
+      "Manometer"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 284,
+    "question": "Which cycle has the highest ideal efficiency for the same temperature limits?",
+    "options": [
+      "Otto cycle",
+      "Diesel cycle",
+      "Carnot cycle",
+      "Dual cycle"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 285,
+    "question": "Which stroke has both valves closed?",
+    "options": [
+      "Compression",
+      "Intake",
+      "Exhaust",
+      "Intake overlap"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 286,
+    "question": "Which factor causes white smoke in diesel engines?",
+    "options": [
+      "Excess fuel",
+      "Unburnt diesel due to low temperature",
+      "Oil burning",
+      "NOx formation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 287,
+    "question": "Which part controls ignition timing in modern SI engines?",
+    "options": [
+      "Throttle body",
+      "Carburetor",
+      "Engine Control Unit (ECU)",
+      "Fuel tank"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 288,
+    "question": "Which stroke in a four-stroke engine ends with piston at BDC?",
+    "options": [
+      "Compression stroke",
+      "Power stroke",
+      "Exhaust stroke",
+      "None"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 289,
+    "question": "What is the main purpose of supercharging?",
+    "options": [
+      "Reduce power output",
+      "Reduce emissions only",
+      "Increase mass of air entering cylinder",
+      "Reduce AFR"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 290,
+    "question": "Which factor increases mechanical efficiency?",
+    "options": [
+      "Higher friction",
+      "Poor lubrication",
+      "Clean and adequate lubrication",
+      "High coolant temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 291,
+    "question": "What is scavenging in two-stroke engines?",
+    "options": [
+      "Fuel vaporization",
+      "Removal of exhaust gases and filling fresh charge",
+      "Cooling of piston",
+      "Ignition delay control"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 292,
+    "question": "Which of the following increases NOx formation?",
+    "options": [
+      "Low combustion temperature",
+      "High combustion temperature",
+      "Rich mixture",
+      "Lean mixture only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 293,
+    "question": "Which device is used to measure fuel flow rate?",
+    "options": [
+      "Burette",
+      "Dynamometer",
+      "Venturimeter",
+      "Tachometer"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 294,
+    "question": "Which system supplies oil under pressure to engine components?",
+    "options": [
+      "Fuel system",
+      "Carburetion system",
+      "Lubrication system",
+      "Cooling system"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 295,
+    "question": "What is the function of piston rings?",
+    "options": [
+      "Store fuel",
+      "Prevent oil entry into combustion chamber and seal gases",
+      "Cool cylinder walls",
+      "Control valve timing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 296,
+    "question": "What causes knocking in SI engines?",
+    "options": [
+      "Normal combustion",
+      "Auto-ignition of end gas",
+      "High octane fuel",
+      "Lean mixture"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 297,
+    "question": "Which component filters incoming air?",
+    "options": [
+      "Oil filter",
+      "Air filter",
+      "Fuel filter",
+      "Carburetor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 298,
+    "question": "Which factor directly increases brake power?",
+    "options": [
+      "Lower fuel quantity",
+      "Increased volumetric efficiency",
+      "Higher friction losses",
+      "Incorrect ignition timing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 299,
+    "question": "What is the purpose of fins in air-cooled engines?",
+    "options": [
+      "Reduce airflow",
+      "Increase surface area for heat dissipation",
+      "Store heat",
+      "Increase engine weight"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 300,
+    "question": "Which stroke begins after spark ignition in SI engines?",
+    "options": [
+      "Compression stroke",
+      "Exhaust stroke",
+      "Power stroke",
+      "Intake stroke"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 301,
+    "question": "Which parameter mainly determines the work output of an engine cycle?",
+    "options": [
+      "Fuel viscosity",
+      "Mean effective pressure",
+      "Ignition voltage",
+      "Exhaust pipe length"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 302,
+    "question": "Which factor reduces octane requirement in SI engines?",
+    "options": [
+      "High compression ratio",
+      "Low inlet air temperature",
+      "Advanced ignition timing",
+      "Lean mixture"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 303,
+    "question": "What is the purpose of the exhaust manifold?",
+    "options": [
+      "Distribute air–fuel mixture",
+      "Collect exhaust gases from cylinders",
+      "Store lubricating oil",
+      "Increase compression ratio"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 304,
+    "question": "Which cycle is idealized for CI engines?",
+    "options": [
+      "Otto cycle",
+      "Diesel cycle",
+      "Carnot cycle",
+      "Dual cycle"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 305,
+    "question": "Which factor increases fuel atomization quality?",
+    "options": [
+      "Low injection pressure",
+      "High injection pressure",
+      "Large droplet size",
+      "Cold fuel"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 306,
+    "question": "Which stroke in a four-stroke diesel engine ends immediately before fuel injection?",
+    "options": [
+      "Exhaust stroke",
+      "Intake stroke",
+      "Compression stroke",
+      "Power stroke"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 307,
+    "question": "Which condition leads to an increase in HC emissions in SI engines?",
+    "options": [
+      "Lean mixture",
+      "Rich mixture",
+      "Proper ignition timing",
+      "Low flame speed"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 308,
+    "question": "Which of the following causes backfire in SI engines?",
+    "options": [
+      "Rich mixture",
+      "Lean mixture",
+      "Retarded ignition",
+      "Cold intake air"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 309,
+    "question": "Which method reduces NOx formation in engines?",
+    "options": [
+      "High combustion temperature",
+      "Turbocharging",
+      "Exhaust Gas Recirculation (EGR)",
+      "Supercharging"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 310,
+    "question": "Which instrument measures air flow into the engine?",
+    "options": [
+      "Rotameter",
+      "Mass airflow sensor",
+      "Hydrometer",
+      "Thermocouple"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 311,
+    "question": "Which engine component opens valves at the correct crank angle?",
+    "options": [
+      "Crankshaft",
+      "Camshaft",
+      "Flywheel",
+      "Oil pump"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 312,
+    "question": "Which factor increases NOx emissions?",
+    "options": [
+      "Rich mixture",
+      "High combustion temperature",
+      "Late ignition",
+      "Low compression ratio"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 313,
+    "question": "Which parameter does braking power depend on?",
+    "options": [
+      "Torque and speed",
+      "Compression ratio",
+      "Air–fuel ratio",
+      "Cylinder configuration"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 314,
+    "question": "Which type of cooling system uses natural convection?",
+    "options": [
+      "Forced circulation cooling",
+      "Air cooling",
+      "Thermosiphon cooling",
+      "Evaporative cooling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 315,
+    "question": "Which emission indicates incomplete combustion in SI engines?",
+    "options": [
+      "CO",
+      "CO₂",
+      "N₂",
+      "O₂"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 316,
+    "question": "Which factor improves volumetric efficiency?",
+    "options": [
+      "Hot intake air",
+      "Cold intake air",
+      "Throttle restriction",
+      "Lower compression ratio"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 317,
+    "question": "Which combustion chamber design increases turbulence?",
+    "options": [
+      "Flat-top chamber",
+      "Wedge chamber",
+      "Open chamber",
+      "Symmetrical chamber"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 318,
+    "question": "Which stroke prepares the air–fuel mixture for combustion in SI engines?",
+    "options": [
+      "Compression stroke",
+      "Intake stroke",
+      "Exhaust stroke",
+      "Power stroke"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 319,
+    "question": "Which device measures the rotational speed of an engine?",
+    "options": [
+      "Speedometer",
+      "Tachometer",
+      "Dynamometer",
+      "Barometer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 320,
+    "question": "Which factor increases friction power?",
+    "options": [
+      "Proper lubrication",
+      "Low viscosity oil",
+      "High engine speed",
+      "Clean filters"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 321,
+    "question": "Which stroke ends with both valves closed in a four-stroke engine?",
+    "options": [
+      "Power stroke",
+      "Compression stroke",
+      "Intake stroke",
+      "Exhaust stroke"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 322,
+    "question": "Higher cetane number means:",
+    "options": [
+      "Higher ignition delay",
+      "Lower ignition delay",
+      "Lower calorific value",
+      "Higher octane number"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 323,
+    "question": "Which factor reduces knocking tendency in SI engines?",
+    "options": [
+      "High inlet temperature",
+      "High compression ratio",
+      "Retarded ignition timing",
+      "Low octane fuel"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 324,
+    "question": "Which component supplies pressurized oil in engine lubrication?",
+    "options": [
+      "Fuel pump",
+      "Oil pump",
+      "Water pump",
+      "Injector"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 325,
+    "question": "Which factor decreases thermal efficiency?",
+    "options": [
+      "Higher compression ratio",
+      "Higher heat loss",
+      "Better combustion",
+      "Cold air intake"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 326,
+    "question": "Which process occurs during the intake stroke?",
+    "options": [
+      "Fuel burning",
+      "Air/fuel mixture enters the cylinder",
+      "Exhaust gas release",
+      "Piston at TDC"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 327,
+    "question": "Which factor increases soot formation?",
+    "options": [
+      "High air–fuel ratio (lean)",
+      "Excess oxygen",
+      "Rich mixture and low air supply",
+      "Low combustion temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 328,
+    "question": "Which device converts reciprocating motion into rotary motion?",
+    "options": [
+      "Camshaft",
+      "Crankshaft",
+      "Piston pin",
+      "Flywheel"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 329,
+    "question": "Which factor reduces volumetric efficiency?",
+    "options": [
+      "Cold intake air",
+      "Large valves",
+      "Increased intake temperature",
+      "Supercharging"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 330,
+    "question": "Which emission is produced mainly by lean combustion?",
+    "options": [
+      "CO",
+      "HC",
+      "NOx",
+      "Soot"
+    ],
+    "answerIndex": 2
   }
 ]

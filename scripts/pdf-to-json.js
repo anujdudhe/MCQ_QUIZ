@@ -14,7 +14,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Allow overriding the PDF file via CLI argument, defaulting to the latest units PDF
-const PDF_FILE = process.argv[2] ?? 'IM_MCQ_UNITS3,4,5,6.pdf';
+const PDF_FILE = process.argv[2] ?? 'Question Bank ME391H Final.docx.pdf';
 const PDF_PATH = path.join(__dirname, '..', PDF_FILE);
 const OUTPUT_PATH = path.join(__dirname, '..', 'public', 'questions.json');
 
@@ -129,7 +129,7 @@ async function convertPdfToJson() {
       console.log(JSON.stringify(questions[0], null, 2));
     }
     
-    if (questions.length < 200) {
+    if (questions.length < 400) {
       console.log(`\n⚠️  Note: Expected 200 questions but found ${questions.length}`);
       console.log('   You may need to manually review and add missing questions.');
     }
