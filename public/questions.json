@@ -1,0 +1,1982 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is NOT a basis for classifying internal combustion (IC) engines?",
+    "options": [
+      "Type of fuel used",
+      "Number of wheels",
+      "Method of ignition",
+      "Number of strokes"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "A diesel engine is also called a:",
+    "options": [
+      "Spark ignition engine",
+      "Compression ignition engine",
+      "External combustion engine",
+      "Rotary engine"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Two-stroke engines are generally preferred in:",
+    "options": [
+      "Trucks",
+      "Cars",
+      "Motorcycles",
+      "Trains"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "The main function of the piston is to:",
+    "options": [
+      "Store lubricating oil",
+      "Seal the combustion chamber and transmit force",
+      "Cool the engine",
+      "Mix air and fuel"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "If the volume above the piston at BDC is 600 cm³ and at TDC is 100 cm³, what is the compression ratio?",
+    "options": [
+      "4:1",
+      "5:1",
+      "6:1",
+      "7:1"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 6,
+    "question": "IC engines are commonly used in which of the following applications?",
+    "options": [
+      "Refrigerators",
+      "Electric trains",
+      "Automobiles",
+      "Wind turbines"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "The cylinder head is located:",
+    "options": [
+      "Below the crankcase",
+      "At the bottom of the piston",
+      "On top of the engine block",
+      "Inside the combustion chamber"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "Which component ensures proper timing for opening and closing of valves?",
+    "options": [
+      "Crankshaft",
+      "Flywheel",
+      "Camshaft",
+      "Spark plug"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 9,
+    "question": "In a two-stroke engine, power is produced in every:",
+    "options": [
+      "4 strokes",
+      "3 strokes",
+      "2 strokes",
+      "1 stroke"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 10,
+    "question": "The oil sump is located at the:",
+    "options": [
+      "Top of the engine",
+      "Side of the cylinder",
+      "Bottom of the crankcase",
+      "Center of the piston"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 11,
+    "question": "Which IC engine is best suited for use in portable generators where quick start and lightweight are priorities?",
+    "options": [
+      "Steam engine",
+      "Diesel engine",
+      "Two-stroke petrol engine",
+      "Gas turbine"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 12,
+    "question": "Which type of IC engine is widely used in agriculture for water pumping?",
+    "options": [
+      "Petrol engine",
+      "Diesel engine",
+      "Steam engine",
+      "Gas turbine"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "Which engine part converts reciprocating motion into rotary motion?",
+    "options": [
+      "Cylinder",
+      "Piston",
+      "Crankshaft",
+      "Camshaft"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 14,
+    "question": "The function of piston rings is to:",
+    "options": [
+      "Provide lubrication",
+      "Ignite the fuel",
+      "Seal the combustion chamber and reduce friction",
+      "Transfer coolant"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 15,
+    "question": "A petrol engine is also known as a:",
+    "options": [
+      "Compression ignition engine",
+      "Steam engine",
+      "Spark ignition engine",
+      "Control exhaust emissions"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 16,
+    "question": "The crankshaft converts:",
+    "options": [
+      "Rotary motion to reciprocating motion",
+      "Heat into sound",
+      "Reciprocating motion to rotary motion",
+      "Thermal energy to kinetic energy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 17,
+    "question": "Piston speed (mean) is commonly calculated by which formula?",
+    "options": [
+      "Stroke × RPM",
+      "2 × Stroke × RPM / 60",
+      "Stroke / RPM",
+      "Stroke × Time"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "Small petrol engines are commonly used in:",
+    "options": [
+      "Ships",
+      "Power stations",
+      "Two-wheelers",
+      "Heavy-duty trucks"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "The connecting rod connects the:",
+    "options": [
+      "Piston to the valve",
+      "Crankshaft to the camshaft",
+      "Piston to the crankshaft",
+      "Cylinder to the crankcase"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 20,
+    "question": "Which component ensures proper timing for opening and closing of valves?",
+    "options": [
+      "Crankshaft",
+      "Flywheel",
+      "Camshaft",
+      "Spark plug"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 21,
+    "question": "The main difference between Otto and Diesel cycle is in the:",
+    "options": [
+      "Method of exhaust",
+      "Type of fuel",
+      "Heat addition process",
+      "Number of strokes"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 22,
+    "question": "The function of the spark plug is to:",
+    "options": [
+      "Open the valves",
+      "Provide fuel",
+      "Ignite the air-fuel mixture",
+      "Remove exhaust gases"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 23,
+    "question": "Which of the following conditions will result in increased piston speed?",
+    "options": [
+      "Decrease in RPM",
+      "Shorter stroke length",
+      "Increase in stroke length and engine RPM",
+      "Lower compression ratio"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 24,
+    "question": "If the piston is at the top dead center (TDC), what does this mean in practical terms?",
+    "options": [
+      "The piston is halfway in the cylinder",
+      "The piston is at the start of the intake stroke",
+      "The piston is at the extreme bottom position",
+      "The piston is at the highest point and ready for ignition (in compression stroke)"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 25,
+    "question": "In a four-stroke petrol engine, the power stroke occurs once every:",
+    "options": [
+      "One revolution of the crankshaft",
+      "Two revolutions of the crankshaft",
+      "Half revolution of the crankshaft",
+      "Three revolutions of the crankshaft"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 26,
+    "question": "Cut-off ratio is applicable in:",
+    "options": [
+      "Petrol engines",
+      "Steam engines",
+      "Diesel engines",
+      "Gas turbines"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 27,
+    "question": "What is the function of a flywheel in an IC engine?",
+    "options": [
+      "Increase engine temperature",
+      "Reduce friction",
+      "Store rotational energy and smooth engine operation",
+      "Control exhaust emissions"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 28,
+    "question": "IC engines are classified based on:",
+    "options": [
+      "Number of gears",
+      "Type of fuel used",
+      "Colour of engine",
+      "Size of fuel tank"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 29,
+    "question": "An engine designer wants to increase the displacement of the engine. Which parameters must be increased?",
+    "options": [
+      "Compression ratio only",
+      "Bore and/or stroke",
+      "TDC and BDC",
+      "Cut-off ratio"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 30,
+    "question": "A farmer wants an engine for a water pump that runs for long hours with better fuel efficiency. Which engine should he prefer?",
+    "options": [
+      "Gas turbine",
+      "Two-stroke petrol engine",
+      "Four-stroke petrol engine",
+      "Four-stroke diesel engine"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 31,
+    "question": "Which stroke in a four-stroke engine is responsible for removing burnt gases from the cylinder?",
+    "options": [
+      "Intake stroke",
+      "Compression stroke",
+      "Power stroke",
+      "Exhaust stroke"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 32,
+    "question": "Which cycle is used to represent the working of a petrol engine?",
+    "options": [
+      "Otto cycle",
+      "Diesel cycle",
+      "Brayton cycle",
+      "Rankine cycle"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 33,
+    "question": "The thermal efficiency of an engine mainly depends on the:",
+    "options": [
+      "Fuel color",
+      "Compression ratio",
+      "Cooling system type",
+      "Engine weight"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 34,
+    "question": "Increasing the compression ratio in a petrol engine generally results in:",
+    "options": [
+      "Lower efficiency",
+      "Higher efficiency",
+      "No change",
+      "Engine cannot run"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 35,
+    "question": "Which stroke in a four-stroke engine prepares the air–fuel mixture for ignition?",
+    "options": [
+      "Exhaust stroke",
+      "Compression stroke",
+      "Intake stroke",
+      "Power stroke"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 36,
+    "question": "The brake power of an engine is measured using a:",
+    "options": [
+      "Speedometer",
+      "Dynamometer",
+      "Manometer",
+      "Hydrometer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 37,
+    "question": "The indicated power of an engine is the power:",
+    "options": [
+      "Delivered to the crankshaft",
+      "Lost in friction",
+      "Developed inside the cylinder",
+      "Used for cooling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 38,
+    "question": "Mechanical efficiency of an engine is defined as:",
+    "options": [
+      "BP / IP",
+      "IP / BP",
+      "FP / IP",
+      "BP × IP"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 39,
+    "question": "The friction power of an engine is equal to:",
+    "options": [
+      "IP - BP",
+      "BP + IP",
+      "BP × IP",
+      "BP / IP"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 40,
+    "question": "Which instrument is used to measure fuel consumption in an engine test?",
+    "options": [
+      "Orifice meter",
+      "Burette",
+      "Venturimeter",
+      "Rotameter"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 41,
+    "question": "Morse test is used to determine:",
+    "options": [
+      "Brake thermal efficiency",
+      "Indicated power of multi-cylinder engines",
+      "Lubrication quality",
+      "Fuel injection timing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 42,
+    "question": "Volumetric efficiency of an engine indicates:",
+    "options": [
+      "Fuel flow rate",
+      "Amount of charge inducted compared to theoretical volume",
+      "Mechanical losses",
+      "Exhaust pressure"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 43,
+    "question": "The purpose of a carburetor is to:",
+    "options": [
+      "Compress the air",
+      "Ignite the mixture",
+      "Mix air and fuel in correct ratio",
+      "Remove exhaust gases"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is an advantage of a two-stroke engine?",
+    "options": [
+      "Lower power-to-weight ratio",
+      "More complex mechanism",
+      "Power stroke every revolution",
+      "Lower efficiency"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 45,
+    "question": "Which device is used to store fuel in a diesel engine?",
+    "options": [
+      "Fuel injector",
+      "Fuel filter",
+      "Carburetor",
+      "Fuel tank"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 46,
+    "question": "The main function of the muffler in an engine is to:",
+    "options": [
+      "Increase power",
+      "Reduce exhaust noise",
+      "Cool the exhaust gases",
+      "Filter fuel"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 47,
+    "question": "Which type of cooling system uses water circulated through jackets around the cylinder?",
+    "options": [
+      "Air cooling",
+      "Evaporative cooling",
+      "Water cooling",
+      "Oil cooling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 48,
+    "question": "Pre-ignition in petrol engines is caused by:",
+    "options": [
+      "Poor lubrication",
+      "Overheating and glowing carbon deposits",
+      "Low compression",
+      "High fuel viscosity"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 49,
+    "question": "The purpose of a governor in an engine is to:",
+    "options": [
+      "Control speed",
+      "Increase torque",
+      "Reduce noise",
+      "Improve cooling"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 50,
+    "question": "Which stroke in a diesel engine begins immediately after fuel injection?",
+    "options": [
+      "Compression stroke",
+      "Power stroke",
+      "Exhaust stroke",
+      "Intake stroke"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 51,
+    "question": "Diesel engines use which method of ignition?",
+    "options": [
+      "Electric spark",
+      "Compression ignition",
+      "Chemical ignition",
+      "Thermal ignition"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 52,
+    "question": "Which component atomizes the fuel in a diesel engine?",
+    "options": [
+      "Spark plug",
+      "Injector",
+      "Carburetor",
+      "Fuel pump"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 53,
+    "question": "What does scavenging refer to in engines?",
+    "options": [
+      "Cooling the engine",
+      "Cleaning exhaust pipes",
+      "Removing exhaust gases and filling fresh charge",
+      "Filtering air"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 54,
+    "question": "Supercharging increases engine power by:",
+    "options": [
+      "Reducing friction",
+      "Increasing intake pressure",
+      "Cooling the cylinder",
+      "Increasing stroke length"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 55,
+    "question": "Which parameter is increased by turbocharging?",
+    "options": [
+      "Fuel color",
+      "Intake air density",
+      "Cylinder material strength",
+      "Crankshaft weight"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 56,
+    "question": "In an SI engine, detonation occurs due to:",
+    "options": [
+      "Slow flame propagation",
+      "Auto-ignition of end gas",
+      "Insufficient lubrication",
+      "Low intake temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 57,
+    "question": "Which stroke is absent in a two-stroke engine compared to a four-stroke engine?",
+    "options": [
+      "Compression stroke",
+      "Power stroke",
+      "Intake and exhaust strokes",
+      "None"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 58,
+    "question": "Heat transfer in an IC engine is mainly by:",
+    "options": [
+      "Radiation only",
+      "Conduction only",
+      "Convection and conduction",
+      "Diffusion"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 59,
+    "question": "Which of the following increases engine knocking?",
+    "options": [
+      "Lower compression ratio",
+      "Higher octane fuel",
+      "Over-advanced ignition timing",
+      "Rich air–fuel mixture"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 60,
+    "question": "The brake thermal efficiency of an engine is defined as:",
+    "options": [
+      "BP / Fuel energy supplied",
+      "IP / BP",
+      "Fuel used per cycle",
+      "BP × Mechanical efficiency"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 61,
+    "question": "Which of the following increases volumetric efficiency of an engine?",
+    "options": [
+      "High intake temperature",
+      "Longer stroke",
+      "Supercharging",
+      "Retarded ignition timing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 62,
+    "question": "Which device measures the air–fuel ratio in an engine?",
+    "options": [
+      "Hydrometer",
+      "Oxygen sensor (Lambda sensor)",
+      "Manometer",
+      "Pyrometer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 63,
+    "question": "The purpose of a heat exchanger in engine cooling is to:",
+    "options": [
+      "Increase fuel consumption",
+      "Remove heat from coolant",
+      "Increase exhaust temperature",
+      "Reduce intake pressure"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 64,
+    "question": "The stoichiometric air–fuel ratio for petrol is approximately:",
+    "options": [
+      "10:1",
+      "12:1",
+      "14.7:1",
+      "18:1"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 65,
+    "question": "Which pollutant is mainly produced by incomplete combustion?",
+    "options": [
+      "CO₂",
+      "H₂O",
+      "CO",
+      "N₂"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 66,
+    "question": "Which component reduces NOx emissions in vehicles?",
+    "options": [
+      "Diesel particulate filter",
+      "Catalytic converter",
+      "Fuel pump",
+      "Air filter"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 67,
+    "question": "Which gauge displays engine speed in RPM?",
+    "options": [
+      "Speedometer",
+      "Tachometer",
+      "Odometer",
+      "Ammeter"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 68,
+    "question": "Which part supplies fuel to the injector in a diesel engine?",
+    "options": [
+      "Fuel filter",
+      "Fuel pump",
+      "Carburetor",
+      "Glow plug"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 69,
+    "question": "Glow plugs are used in diesel engines for:",
+    "options": [
+      "Cooling the cylinder",
+      "Igniting the mixture during normal running",
+      "Helping cold starting",
+      "Controlling fuel injection timing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 70,
+    "question": "Which test is used to determine friction power of an engine?",
+    "options": [
+      "Morse test",
+      "Willan’s line method",
+      "Orsat analysis",
+      "Blow-by test"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 71,
+    "question": "In a four-stroke engine, which valve opens first?",
+    "options": [
+      "Exhaust valve",
+      "Intake valve",
+      "Relief valve",
+      "Fuel valve"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 72,
+    "question": "Higher octane number of petrol indicates:",
+    "options": [
+      "Lower resistance to knocking",
+      "Higher resistance to knocking",
+      "Lower calorific value",
+      "Higher ignition temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 73,
+    "question": "The calorific value of fuel is defined as:",
+    "options": [
+      "The mass of fuel consumed per cycle",
+      "The amount of heat released during complete combustion",
+      "The ignition temperature",
+      "The emission level"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 74,
+    "question": "Which parameter does NOT affect the engine power output?",
+    "options": [
+      "Air–fuel ratio",
+      "Engine displacement",
+      "Cooling method",
+      "Ignition timing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 75,
+    "question": "The energy supplied to the engine is calculated using:",
+    "options": [
+      "Fuel consumption × calorific value",
+      "Brake power × IP",
+      "Air flow × stroke",
+      "Engine speed × torque"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 76,
+    "question": "The exhaust valve temperature is usually:",
+    "options": [
+      "Lower than intake valve",
+      "Equal to coolant temperature",
+      "Higher than intake valve",
+      "Same as piston temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 77,
+    "question": "Idle speed of a typical petrol engine is around:",
+    "options": [
+      "200–300 RPM",
+      "500–900 RPM",
+      "1500–2000 RPM",
+      "2500–3000 RPM"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 78,
+    "question": "Which factor reduces mechanical efficiency of an engine?",
+    "options": [
+      "Lower friction",
+      "Use of lubricants",
+      "High friction losses",
+      "Higher compression ratio"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 79,
+    "question": "Which stroke comes immediately after the intake stroke in a four-stroke engine?",
+    "options": [
+      "Exhaust stroke",
+      "Power stroke",
+      "Compression stroke",
+      "Scavenging stroke"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 80,
+    "question": "Crank angle is measured in:",
+    "options": [
+      "Meters",
+      "Radians or degrees",
+      "Watts",
+      "Cycles"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 81,
+    "question": "Which cycle is used to represent the diesel engine?",
+    "options": [
+      "Otto cycle",
+      "Brayton cycle",
+      "Diesel cycle",
+      "Carnot cycle"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 82,
+    "question": "In a four-stroke engine, how many crank revolutions occur during one complete cycle?",
+    "options": [
+      "Half revolution",
+      "One revolution",
+      "Two revolutions",
+      "Four revolutions"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 83,
+    "question": "What does higher compression ratio in diesel engines improve?",
+    "options": [
+      "Cooling rate",
+      "Starting difficulty",
+      "Thermal efficiency",
+      "Fuel color"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 84,
+    "question": "Turbocharging is driven by:",
+    "options": [
+      "Crankshaft",
+      "Exhaust gases",
+      "Fuel pump",
+      "Electric motor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 85,
+    "question": "The purpose of lubricating oil is to:",
+    "options": [
+      "Increase friction",
+      "Reduce wear and friction",
+      "Cool intake air",
+      "Mix with fuel"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 86,
+    "question": "Which component filters the incoming air before entering the engine?",
+    "options": [
+      "Fuel filter",
+      "Air filter",
+      "Oil filter",
+      "Catalytic converter"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 87,
+    "question": "Which of the following is a disadvantage of a two-stroke engine?",
+    "options": [
+      "More power per cycle",
+      "Simpler design",
+      "Higher fuel consumption",
+      "Lower weight"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 88,
+    "question": "Which gas is primarily responsible for engine knocking in petrol engines?",
+    "options": [
+      "CO₂",
+      "Unburnt hydrocarbons",
+      "End-gas auto-ignition",
+      "NOx"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 89,
+    "question": "The efficiency of an engine decreases with:",
+    "options": [
+      "Higher compression ratio",
+      "Supercharging",
+      "Detonation",
+      "Better cooling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 90,
+    "question": "Which parameter is directly measured during a Willan’s line test?",
+    "options": [
+      "Indicated power",
+      "Brake power vs. fuel consumption",
+      "Compression ratio",
+      "Octane number"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 91,
+    "question": "Which instrument is used to measure exhaust gas temperature?",
+    "options": [
+      "Hydrometer",
+      "Pyrometer",
+      "Barometer",
+      "Manometer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 92,
+    "question": "Which factor increases brake thermal efficiency?",
+    "options": [
+      "Poor combustion",
+      "Higher heat losses",
+      "Accurate ignition timing",
+      "Rich air–fuel mixture"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 93,
+    "question": "What is the effect of using a lean mixture in SI engines?",
+    "options": [
+      "Higher fuel consumption",
+      "Lower NOx emissions",
+      "Increased knocking",
+      "Poor combustion stability"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 94,
+    "question": "Which stroke ends with the expulsion of burnt gases?",
+    "options": [
+      "Compression stroke",
+      "Exhaust stroke",
+      "Power stroke",
+      "Intake stroke"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 95,
+    "question": "Which engine cycle has constant-volume heat addition?",
+    "options": [
+      "Diesel cycle",
+      "Dual cycle",
+      "Otto cycle",
+      "Carnot cycle"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 96,
+    "question": "What is the main purpose of fins in air-cooled engines?",
+    "options": [
+      "Increase lubrication",
+      "Increase surface area for heat dissipation",
+      "Reduce engine noise",
+      "Increase compression ratio"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 97,
+    "question": "Which of the following conditions promotes detonation in SI engines?",
+    "options": [
+      "Low intake temperature",
+      "High octane fuel",
+      "Over-advanced ignition timing",
+      "Low compression ratio"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 98,
+    "question": "Which property of fuel indicates resistance to knocking in SI engines?",
+    "options": [
+      "Cetane number",
+      "Octane number",
+      "Calorific value",
+      "Viscosity"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 99,
+    "question": "Which part collects lubricating oil in an engine?",
+    "options": [
+      "Oil ring",
+      "Oil sump",
+      "Fuel tank",
+      "Crankshaft"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 100,
+    "question": "Which parameter is measured using an orifice meter during engine testing?",
+    "options": [
+      "Air flow rate",
+      "Fuel viscosity",
+      "Exhaust temperature",
+      "Crankshaft speed"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 101,
+    "question": "In a two-stroke engine, lubrication is generally done by:",
+    "options": [
+      "Separate oil pump",
+      "Mixing oil with fuel",
+      "Water cooling",
+      "Fuel injection"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 102,
+    "question": "Which fuel property is important for diesel engine ignition quality?",
+    "options": [
+      "Octane number",
+      "Cetane number",
+      "Density",
+      "Viscosity"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 103,
+    "question": "Which action decreases NOx formation in IC engines?",
+    "options": [
+      "Higher combustion temperature",
+      "Retarded ignition timing",
+      "Lean mixture operation",
+      "Turbocharging"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 104,
+    "question": "Which device stores rotational energy to stabilize engine speed?",
+    "options": [
+      "Camshaft",
+      "Flywheel",
+      "Crankcase",
+      "Piston"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 105,
+    "question": "Which stroke requires the highest piston force in diesel engines?",
+    "options": [
+      "Intake stroke",
+      "Compression stroke",
+      "Power stroke",
+      "Exhaust stroke"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 106,
+    "question": "What is the function of the timing belt?",
+    "options": [
+      "Connect piston to crank",
+      "Synchronize crankshaft and camshaft rotation",
+      "Increase engine power",
+      "Filter exhaust gases"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 107,
+    "question": "Which method cools the piston in high-performance engines?",
+    "options": [
+      "Oil jet cooling",
+      "Air flow only",
+      "Fuel evaporation",
+      "Spark timing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 108,
+    "question": "Which part controls fuel injection timing in modern diesel engines?",
+    "options": [
+      "Carburetor",
+      "ECU (Engine Control Unit)",
+      "Glow plug",
+      "Air filter"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 109,
+    "question": "The air standard efficiency of an engine cycle increases with:",
+    "options": [
+      "Lower compression ratio",
+      "Higher compression ratio",
+      "Lower intake pressure",
+      "Higher exhaust temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 110,
+    "question": "Which factor causes incomplete combustion?",
+    "options": [
+      "Correct ignition timing",
+      "Proper air–fuel ratio",
+      "Insufficient oxygen",
+      "High turbulence"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 111,
+    "question": "What is the purpose of a crankcase breather?",
+    "options": [
+      "Reduce fuel consumption",
+      "Vent blow-by gases safely",
+      "Cool the crankshaft",
+      "Improve combustion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "Which emission is controlled mainly by EGR (Exhaust Gas Recirculation)?",
+    "options": [
+      "CO",
+      "HC",
+      "NOx",
+      "SO₂"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 113,
+    "question": "Which stroke compresses only air in diesel engines?",
+    "options": [
+      "Intake stroke",
+      "Compression stroke",
+      "Power stroke",
+      "Exhaust stroke"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 114,
+    "question": "Which parameter determines the amount of work done in the engine cycle?",
+    "options": [
+      "Mean effective pressure",
+      "Crankcase volume",
+      "Oil viscosity",
+      "Engine weight"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 115,
+    "question": "Which part performs the function of opening and closing valves?",
+    "options": [
+      "Camshaft",
+      "Flywheel",
+      "Piston rings",
+      "Fuel pump"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 116,
+    "question": "Which factor increases the possibility of turbo lag?",
+    "options": [
+      "Small turbocharger",
+      "Large turbocharger",
+      "High exhaust pressure",
+      "Low exhaust temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 117,
+    "question": "Which mixture burns fastest in SI engines?",
+    "options": [
+      "Rich mixture",
+      "Lean mixture",
+      "Stoichiometric mixture",
+      "Fuel-only mixture"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 118,
+    "question": "Which of the following reduces engine knocking?",
+    "options": [
+      "Low octane fuel",
+      "High compression ratio",
+      "Retarded ignition timing",
+      "High intake temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 119,
+    "question": "The function of the main bearings in an engine is to:",
+    "options": [
+      "Support the crankshaft",
+      "Seal the combustion chamber",
+      "Filter oil",
+      "Store fuel"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 120,
+    "question": "Higher inlet air density results from:",
+    "options": [
+      "Higher intake temperature",
+      "Lower intake pressure",
+      "Lower temperature or supercharging",
+      "Smaller valves"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 121,
+    "question": "Which of the following is used to reduce friction between piston and cylinder walls?",
+    "options": [
+      "Coolant",
+      "Lubricating oil",
+      "Fuel",
+      "Air–fuel mixture"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 122,
+    "question": "What is the effect of high engine temperature on lubrication?",
+    "options": [
+      "Increases viscosity",
+      "Reduces viscosity",
+      "Freezes lubricant",
+      "Improves sealing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 123,
+    "question": "Which method is used to cool large marine diesel engines?",
+    "options": [
+      "Air cooling",
+      "Oil cooling only",
+      "Water cooling",
+      "Fuel evaporation cooling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 124,
+    "question": "What is the main purpose of a thermostat in the cooling system?",
+    "options": [
+      "Reduce fuel supply",
+      "Control coolant flow based on temperature",
+      "Increase lubrication",
+      "Start the engine"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 125,
+    "question": "Which of the following is a disadvantage of water cooling?",
+    "options": [
+      "Higher heat transfer",
+      "Heavy and complex system",
+      "Less temperature control",
+      "Less noise"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 126,
+    "question": "Clutch is used in vehicles to:",
+    "options": [
+      "Start the engine",
+      "Stop the crankshaft",
+      "Engage and disengage engine power to transmission",
+      "Increase engine power"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 127,
+    "question": "Which type of clutch is commonly used in motorcycles?",
+    "options": [
+      "Centrifugal clutch",
+      "Cone clutch",
+      "Plate clutch",
+      "Magnetic clutch"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 128,
+    "question": "Which gearbox provides a continuously variable speed ratio?",
+    "options": [
+      "Constant mesh gearbox",
+      "Sliding mesh gearbox",
+      "CVT gearbox",
+      "Synchromesh gearbox"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 129,
+    "question": "What is the main function of the differential?",
+    "options": [
+      "Increase fuel efficiency",
+      "Allow wheels to rotate at different speeds",
+      "Control ignition timing",
+      "Reduce exhaust noise"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 130,
+    "question": "Which brake system uses fluid pressure for operation?",
+    "options": [
+      "Drum brake",
+      "Disc brake",
+      "Hydraulic brake",
+      "Mechanical brake"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 131,
+    "question": "Shock absorbers are used in vehicles to:",
+    "options": [
+      "Increase engine power",
+      "Reduce vibration and improve ride comfort",
+      "Reduce wheel alignment",
+      "Increase braking force"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 132,
+    "question": "Which steering mechanism is commonly used in modern cars?",
+    "options": [
+      "Rack and pinion steering",
+      "Worm and wheel steering",
+      "Chain steering",
+      "Lever steering"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 133,
+    "question": "Which component stores electrical energy in vehicles?",
+    "options": [
+      "Starter motor",
+      "Alternator",
+      "Battery",
+      "Ignition coil"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 134,
+    "question": "Which of the following increases engine volumetric efficiency?",
+    "options": [
+      "High intake temperature",
+      "High exhaust back pressure",
+      "Cold air intake",
+      "Lowering compression ratio"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 135,
+    "question": "Which thermodynamic parameter represents engine work output?",
+    "options": [
+      "Brake power",
+      "Mean effective pressure",
+      "Compression ratio",
+      "Intake temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 136,
+    "question": "Higher cetane number fuel is used in:",
+    "options": [
+      "Petrol engines",
+      "Diesel engines",
+      "Gas turbines",
+      "Steam engines"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 137,
+    "question": "Which emission results from excess air in diesel engines?",
+    "options": [
+      "Black smoke",
+      "White smoke",
+      "Blue smoke",
+      "NOx"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 138,
+    "question": "Which of the following causes blue smoke in diesel engines?",
+    "options": [
+      "Unburnt fuel",
+      "Oil burning",
+      "Water in fuel",
+      "Low compression"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 139,
+    "question": "Black smoke in diesel engines is mainly due to:",
+    "options": [
+      "Excess fuel",
+      "Excess air",
+      "Low temperature",
+      "High octane number"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 140,
+    "question": "Which of the following reduces black smoke in diesel engines?",
+    "options": [
+      "Rich mixture",
+      "Improper timing",
+      "Turbocharging",
+      "Low air flow"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 141,
+    "question": "Which component controls alternator output?",
+    "options": [
+      "Flywheel",
+      "Voltage regulator",
+      "Carburetor",
+      "Fuel injector"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 142,
+    "question": "Which gas is measured during an Orsat analysis for combustion?",
+    "options": [
+      "H₂S",
+      "NO₂",
+      "CO₂",
+      "NH₃"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 143,
+    "question": "Which test determines the indicated power of each cylinder separately?",
+    "options": [
+      "Willan’s line test",
+      "Morse test",
+      "Compression test",
+      "Leak-down test"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 144,
+    "question": "Which parameter decreases when engine load increases?",
+    "options": [
+      "Fuel consumption",
+      "Brake specific fuel consumption",
+      "Exhaust temperature",
+      "Torque"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 145,
+    "question": "In IC engines, the compression ratio is defined as:",
+    "options": [
+      "BDC volume / TDC volume",
+      "TDC volume / BDC volume",
+      "Stroke / bore",
+      "Bore / stroke"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 146,
+    "question": "Which parameter of fuel determines diesel engine cold starting ability?",
+    "options": [
+      "Viscosity",
+      "Octane number",
+      "Cetane number",
+      "Flash point"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 147,
+    "question": "What is the function of the piston skirt?",
+    "options": [
+      "Ignite fuel",
+      "Guide piston movement and reduce side thrust",
+      "Seal the piston",
+      "Cool the piston"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 148,
+    "question": "Which of the following increases mechanical efficiency?",
+    "options": [
+      "Increased friction losses",
+      "Poor lubrication",
+      "Reduced friction losses",
+      "Lower compression ratio"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 149,
+    "question": "What is the function of a scavenging pump in engines?",
+    "options": [
+      "Increase compression",
+      "Remove exhaust gases and supply fresh air",
+      "Inject fuel",
+      "Control temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 150,
+    "question": "Which factor improves diesel engine ignition quality?",
+    "options": [
+      "Higher cetane number",
+      "Higher octane number",
+      "Lower compression ratio",
+      "Colder intake air"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 151,
+    "question": "Which stroke in diesel engines occurs after fuel injection?",
+    "options": [
+      "Compression stroke",
+      "Power stroke",
+      "Intake stroke",
+      "Exhaust stroke"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 152,
+      "question": "Which combustion chamber shape improves swirl in diesel engines?",
+      "options": [
+        "Flat chamber",
+        "Open chamber",
+        "Hemispherical chamber",
+        "Toroidal chamber"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": 153,
+      "question": "Which parameter increases the risk of detonation?",
+      "options": [
+        "High octane fuel",
+        "Retarded ignition timing",
+        "Low inlet temperature",
+        "High compression ratio"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": 154,
+      "question": "Which emission is mainly reduced using diesel particulate filters (DPF)?",
+      "options": [
+        "CO₂",
+        "Particulate matter (soot)",
+        "NOx",
+        "CO"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 155,
+      "question": "Which pump supplies high-pressure fuel to the injectors in diesel engines?",
+      "options": [
+        "Feed pump",
+        "Lift pump",
+        "Common rail pump",
+        "Oil pump"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": 156,
+      "question": "Higher compression ratio in SI engines may lead to:",
+      "options": [
+        "Reduced knocking tendency",
+        "More complete combustion",
+        "Improved power without issues",
+        "Knocking or detonation"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": 157,
+      "question": "Which stroke has both valves closed?",
+      "options": [
+        "Intake stroke",
+        "Compression stroke",
+        "Exhaust stroke",
+        "Scavenging stroke"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 158,
+      "question": "Which of the following is a type of supercharger?",
+      "options": [
+        "Turbocharger only",
+        "Roots blower",
+        "Piston pump",
+        "Fuel injector"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 159,
+      "question": "Which gas primarily contributes to smog formation?",
+      "options": [
+        "NOx",
+        "CO₂",
+        "H₂O vapor",
+        "SO₂"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 160,
+      "question": "Which factor affects flame speed in SI engines?",
+      "options": [
+        "Mixture strength",
+        "Crankshaft weight",
+        "Oil viscosity",
+        "Cooling water level"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 161,
+      "question": "In diesel engines, ignition delay is the interval between:",
+      "options": [
+        "Start of injection and start of combustion",
+        "Start of combustion and power stroke",
+        "End of exhaust and start of intake",
+        "Fuel supply and fuel injection"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 162,
+      "question": "Which cycle consists of constant-pressure and constant-volume heat addition?",
+      "options": [
+        "Otto cycle",
+        "Diesel cycle",
+        "Dual cycle",
+        "Rankine cycle"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": 163,
+      "question": "Which factor reduces ignition delay in diesel engines?",
+      "options": [
+        "Low cetane number",
+        "High intake temperature",
+        "Low compression ratio",
+        "Water injection"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 164,
+      "question": "Which phenomenon occurs due to auto-ignition of unburnt mixture in SI engines?",
+      "options": [
+        "Detonation",
+        "Pre-ignition",
+        "Scavenging",
+        "Turbo lag"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 165,
+      "question": "Which component connects the piston to the crankshaft?",
+      "options": [
+        "Piston pin",
+        "Camshaft",
+        "Connecting rod",
+        "Valve seat"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": 166,
+      "question": "Which cooling system does not require a radiator fan?",
+      "options": [
+        "Air cooling",
+        "Water cooling",
+        "Forced liquid cooling",
+        "Oil cooling"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 167,
+      "question": "The ignition system in petrol engines generates:",
+      "options": [
+        "Fuel pressure",
+        "Lubricating oil pressure",
+        "High-voltage spark",
+        "Cooling effect"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": 168,
+      "question": "Which stroke produces work output in IC engines?",
+      "options": [
+        "Compression stroke",
+        "Exhaust stroke",
+        "Intake stroke",
+        "Power stroke"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": 169,
+      "question": "Which factor increases volumetric efficiency?",
+      "options": [
+        "Higher intake air temperature",
+        "Lower intake air temperature",
+        "Higher coolant temperature",
+        "Retarded ignition"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 170,
+      "question": "A higher air–fuel ratio (lean mixture) results in:",
+      "options": [
+        "More fuel consumption",
+        "Lower flame speed",
+        "Improved knocking behavior",
+        "Richer combustion"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 171,
+      "question": "What is the purpose of the piston rings?",
+      "options": [
+        "Improve ignition timing",
+        "Seal combustion chamber and control oil",
+        "Cool the engine block",
+        "Strengthen piston crown"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 172,
+      "question": "Which emissions are reduced by catalytic converters?",
+      "options": [
+        "CO, HC, NOx",
+        "CO₂ only",
+        "SO₂ only",
+        "Particulates only"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 173,
+      "question": "Which of the following causes white smoke in diesel engines?",
+      "options": [
+        "Unburnt diesel due to low temperature",
+        "Burning lubricating oil",
+        "High intake air temperature",
+        "Knocking"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 174,
+      "question": "Mean effective pressure (MEP) is defined as:",
+      "options": [
+        "Average pressure acting on piston",
+        "Fuel injection pressure",
+        "Exhaust gas pressure",
+        "Intake manifold pressure"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 175,
+      "question": "Which condition increases brake specific fuel consumption (BSFC)?",
+      "options": [
+        "Higher thermal efficiency",
+        "Lower friction power",
+        "Poor combustion",
+        "Turbocharging"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": 176,
+      "question": "Which engine cycle is used to represent gas turbines?",
+      "options": [
+        "Otto cycle",
+        "Brayton cycle",
+        "Diesel cycle",
+        "Rankine cycle"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 177,
+      "question": "What is scavenging in IC engines?",
+      "options": [
+        "Auto ignition of mixture",
+        "Removal of exhaust gases and filling with fresh charge",
+        "Fuel atomization",
+        "Cooling of engine parts"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 178,
+      "question": "Higher exhaust temperature indicates:",
+      "options": [
+        "Poor combustion",
+        "Rich mixture only",
+        "Higher thermal efficiency",
+        "Lower engine speed"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 179,
+      "question": "Which component regulates engine temperature?",
+      "options": [
+        "Radiator",
+        "Thermostat",
+        "Air filter",
+        "Fuel pump"
+      ],
+      "answerIndex": 1
+    },
+  {
+    "id": 180,
+    "question": "Which factor increases engine friction losses?",
+    "options": [
+      "Proper lubrication",
+      "High engine speed",
+      "Clean oil filter",
+      "Low oil temperature"
+    ],
+    "answerIndex": 1
+  }
+]
